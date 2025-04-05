@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd 
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 import seaborn as sns
 movie_ids_titles = pd.read_csv("movies.csv")
 movie_ids_ratings = pd.read_csv("ratings.csv")
